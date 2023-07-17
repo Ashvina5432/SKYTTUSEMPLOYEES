@@ -1,0 +1,14 @@
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\bin\Debug\net7.0\SkyEmployees.Core.deps.json
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\bin\Debug\net7.0\SkyEmployees.Core.runtimeconfig.json
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\bin\Debug\net7.0\SkyEmployees.Core.dll
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\bin\Debug\net7.0\SkyEmployees.Core.pdb
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\SkyEmployees.Core.csproj.AssemblyReference.cache
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\SkyEmployees.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\SkyEmployees.Core.AssemblyInfoInputs.cache
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\SkyEmployees.Core.AssemblyInfo.cs
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\SkyEmployees.Core.csproj.CoreCompileInputs.cache
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\SkyEmployees.Core.dll
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\refint\SkyEmployees.Core.dll
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\SkyEmployees.Core.pdb
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\SkyEmployees.Core.genruntimeconfig.cache
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.Core\obj\Debug\net7.0\ref\SkyEmployees.Core.dll

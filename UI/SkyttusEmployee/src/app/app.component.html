@@ -1,0 +1,26 @@
+<mat-toolbar color="warn"> 
+ <mat-toolbar-row>
+       <button mat-icon-button>
+          <mat-icon (click)="sidenav.toggle();">menu</mat-icon>
+      </button>
+     <h2>Employee Managemente</h2>
+   </mat-toolbar-row> 
+ </mat-toolbar> 
+ <mat-sidenav-container >
+  <mat-sidenav #sidenav opened="true" mode="side">
+      <mat-nav-list>
+         <li class="active"><a mat-list-item routerLink="/">Employee</a></li> 
+          <a mat-list-item routerLink="/addresslist">Employee Address</a>
+         <a mat-list-item routerLink="/empfamilydetaillist">Employee Family Details</a>
+          
+         
+      </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+      <div style="text-align: center; min-height: 600px;">
+      <router-outlet>
+      </router-outlet>
+  </div>
+  </mat-sidenav-content>
+</mat-sidenav-container> 
+

@@ -1,0 +1,17 @@
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\bin\Debug\net7.0\SkyEmployees.DAL.deps.json
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\bin\Debug\net7.0\SkyEmployees.DAL.runtimeconfig.json
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\bin\Debug\net7.0\SkyEmployees.DAL.dll
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\bin\Debug\net7.0\SkyEmployees.DAL.pdb
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\bin\Debug\net7.0\SkyEmployees.Core.dll
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\bin\Debug\net7.0\SkyEmployees.Core.pdb
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\SkyEmployees.DAL.csproj.AssemblyReference.cache
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\SkyEmployees.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\SkyEmployees.DAL.AssemblyInfoInputs.cache
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\SkyEmployees.DAL.AssemblyInfo.cs
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\SkyEmployees.DAL.csproj.CoreCompileInputs.cache
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\SkyEmployees.DAL.csproj.CopyComplete
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\SkyEmployees.DAL.dll
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\refint\SkyEmployees.DAL.dll
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\SkyEmployees.DAL.pdb
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\SkyEmployees.DAL.genruntimeconfig.cache
+D:\SkyttusPvt\SkyEmployees\SkyEmployees.DAL\obj\Debug\net7.0\ref\SkyEmployees.DAL.dll
